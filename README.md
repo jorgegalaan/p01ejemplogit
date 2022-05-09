@@ -31,3 +31,13 @@ Añade todos los cambis pendientes
 ```
 git add -A
 ```
+
+
+## Crear un commit
+
+Para guardar un conjunto de cambios y crear un ounto de control usamos los commit
+
+```
+git commit -m "mensaje de commit"
+```
+
